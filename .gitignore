@@ -1,0 +1,9 @@
+*.o
+*.a
+*.out
+*.db
+*.DS_Store
+
+obj
+lib
+bin
