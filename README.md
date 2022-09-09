@@ -13,12 +13,12 @@ It is an implementation of a Buffer Pool Manager library in C (like Linux page c
 
 ## Setup instructions
 **Install dependencies :**
- * [Cutlery](https://github.com/RohanVDvivedi/Cutlery)
- * [BoomPar](https://github.com/RohanVDvivedi/BoomPar)
- * [ReaderWriterLock](https://github.com/RohanVDvivedi/ReaderWriterLock)
+ * [Cutlery](https://github.com/rahulnath401/Cutlery)
+ * [BoomPar](https://github.com/rahulnath401/BoomPar)
+ * [ReaderWriterLock](https://github.com/rahulnath401/ReaderWriterLock)
 
 **Download source code :**
- * `git clone https://github.com/RohanVDvivedi/Bufferpool.git`
+ * `git clone https://github.com/rahulnath401/Buffer-pool-manager.git`
 
 **Build from source :**
  * `cd Bufferpool`
